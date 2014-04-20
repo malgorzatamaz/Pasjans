@@ -82,8 +82,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Pasjans12\Pasjans12\Source.cpp" />
     <ClCompile Include="..\graOczko.cpp" />
+    <ClCompile Include="Source12.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\athio.h" />
